@@ -25,8 +25,8 @@
     <h2 class="text-2xl font-bold mb-6 text-center">Listado de Facturas</h2>
     <InvoiceList />
   </div> -->
-
-
+<div class="container mx-auto px-4 py-8 grid md:grid-cols-2 gap-8 mt-4">
+  
   <div>
     <ClientForm />
   </div>
@@ -38,3 +38,5 @@
       bind:error 
     />
   </div>
+
+</div>

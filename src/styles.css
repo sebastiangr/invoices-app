@@ -1,0 +1,7 @@
+
+h1 {
+  font-size: 1.875rem; /* text-3xl */
+  font-weight: bold; /* font-bold */
+  text-decoration: underline; /* underline */
+  text-align: center;
+}
